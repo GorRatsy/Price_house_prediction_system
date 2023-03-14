@@ -1,3 +1,5 @@
 {
-    "notebook.output.textLineLimit": 50
+    "notebook.output.textLineLimit": 50,
+    "workbench.preferredHighContrastLightColorTheme": "Default Light+ Experimental",
+    "workbench.preferredLightColorTheme": "Kimbie Dark"
 }
